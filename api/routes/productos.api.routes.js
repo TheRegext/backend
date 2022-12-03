@@ -4,10 +4,10 @@ import reviewRoute from './reviews.api.routes.js'
 import { isLogin } from '../../middleware/auth.middleware.js'
 
 const route = express.Router()
-/*
+
 route.route('/api/productos*')
     .all([isLogin])
-*/
+
 
 route.route('/api/productos')
     .get(ProductosApiController.findAll)
