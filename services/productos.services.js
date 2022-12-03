@@ -1,5 +1,6 @@
 import { MongoClient, ObjectId } from 'mongodb'
-const client = new MongoClient('mongodb://127.0.0.1:27017')
+//const client = new MongoClient('mongodb://127.0.0.1:27017')
+const client = new MongoClient('mongodb+srv://aplicacion:QUS0wnEFSWM4yUzR@cluster0.9v0uiu7.mongodb.net/?retryWrites=true&w=majority')
 
 // filter: { category: 'Cafe', price: 200 }
 async function traerProductos(filter, order) {

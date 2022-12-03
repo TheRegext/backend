@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "632e0a1cb24b83672e9e36c0"
+  },
+  "name": "Café Expreso",
+  "price": "220",
+  "deleted": false,
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "632e0a1cb24b83672e9e36c1"
+  },
+  "name": "Café Americano",
+  "price": "275",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "632e0a1cb24b83672e9e36c2"
+  },
+  "name": "Café Cortado",
+  "price": "220",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "632e13d4b63570114dc6a15f"
+  },
+  "name": "Cafe Jarrito",
+  "price": "250",
+  "deleted": false,
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "632e15d708b9420308a72555"
+  },
+  "name": "Cafe Supremo",
+  "price": "300",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "632e160ef2cd17c8f529e9af"
+  },
+  "name": "Cafe Doble",
+  "price": "280",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "633360a356a9c716a19998cb"
+  },
+  "name": "Cafe Mejorado",
+  "price": "320",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "6345d05d3a6d499fe7ea2784"
+  },
+  "name": "Frapuchino",
+  "price": "400",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "6345d1123a6d499fe7ea2785"
+  },
+  "name": "Cheesecake",
+  "price": "450",
+  "category": "Postres"
+},{
+  "_id": {
+    "$oid": "6345d17b7e7c256935fadfeb"
+  },
+  "name": "Roll de Canela",
+  "price": "500",
+  "category": "Postres"
+},{
+  "_id": {
+    "$oid": "6345d3d8f601ff92eccc6323"
+  },
+  "name": "Te de Manzanilla",
+  "price": "200",
+  "category": "Te"
+},{
+  "_id": {
+    "$oid": "634f0395c3251cb891a6a66e"
+  },
+  "name": "Te de Menta",
+  "price": 250,
+  "category": "Te"
+},{
+  "_id": {
+    "$oid": "6377ea322e3736b06ac88759"
+  },
+  "name": "Cafe Moreno",
+  "price": "300",
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "6377ecb42e3736b06ac8875a"
+  },
+  "name": "Cafe Soluble Magico",
+  "price": "500",
+  "category": ""
+},{
+  "_id": {
+    "$oid": "6377ece32e3736b06ac8875b"
+  },
+  "name": "asd",
+  "price": 0,
+  "category": "Postres"
+},{
+  "_id": {
+    "$oid": "6377ecef2e3736b06ac8875c"
+  },
+  "name": "qwe",
+  "price": 0,
+  "category": ""
+},{
+  "_id": {
+    "$oid": "6377ed132e3736b06ac8875d"
+  },
+  "name": "sss",
+  "price": 0,
+  "category": "Cafe"
+},{
+  "_id": {
+    "$oid": "6377ee132e3736b06ac8875e"
+  },
+  "name": "cafe",
+  "price": 0,
+  "category": "Cafe"
+}]
