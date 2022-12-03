@@ -28,20 +28,6 @@ function isLogin(req, res, next) {
         return res.status(401).json({ message: 'Token invalido' })
     }
 
-    next()
-}
-
-function getUser(req, res, next) {
-    userService.findById(req.user.id)
-        .then(user => {
-            if (!user) {
-                return res.status(401).json({ message: 'Usuario no encontrado' })
-            }
-            req.user = user
-        })
-        .catch(err => {
-            return res.status(401).json({ message: 'Usuario no encontrado' })
-        })
 }
 
 
@@ -56,6 +42,5 @@ function isAdmin(req, res, next) {
 
 export {
     isLogin,
-    getUser,
     isAdmin
 }
